@@ -1,6 +1,7 @@
 # dynamic-components
 
 [Related blog](https://akshaythekkath.hashnode.dev/dynamic-components-in-vuejs)
+[Live Demo](https://dynamic-components.netlify.app/)
 
 ## Project setup
 ```
