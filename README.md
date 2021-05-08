@@ -1,5 +1,7 @@
 # dynamic-components
 
+[Related blog](https://akshaythekkath.hashnode.dev/dynamic-components-in-vuejs)
+
 ## Project setup
 ```
 npm install
